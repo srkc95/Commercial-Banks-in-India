@@ -8,4 +8,5 @@
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~srkc95/60.embed" height="525" width="100%"></iframe>
 
 ## Functioning offices of commercial banks in India - 
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~srkc95/66.embed" height="525" width="100%"></iframe>
 
