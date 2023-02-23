@@ -1,4 +1,3 @@
- ## Functioning offices of commercial banks in India.
  - Among the bank groups, Nationalised Banks have the highest number of 
    functioning offices of commercial banks in all regions.
  - The number of functioning offices of commercial banks for Foreign Banks is the  lowest in all regions.    
