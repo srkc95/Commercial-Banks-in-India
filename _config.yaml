@@ -4,3 +4,5 @@ plugins:
 title: [Bank india]
 description: [A short description of your site's purpose]
 show_downloads: false
+github:
+  is_project_page: false
