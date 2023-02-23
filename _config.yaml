@@ -1,8 +1,8 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Banking india
-description: test the page
+title: Analyzing Commercial Banks in India
+description: Trends in State, Bank Group, and Population Group from 2017-2022
 show_downloads: false
 github:
   is_project_page: false
