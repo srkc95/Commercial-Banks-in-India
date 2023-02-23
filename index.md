@@ -1,5 +1,12 @@
+ - Among the bank groups, Nationalised Banks have the highest number of 
+   functioning offices of commercial banks in all regions.
+  - The number of functioning offices of commercial banks for Foreign Banks is the  lowest in all regions.    
+  - Local Area Banks have the highest number of functioning offices of commercial banks in semi-urban regions, followed by Nationalised    Banks.    
+   - In rural regions, Other Public Sector Banks have a higher number of functioning offices of commercial banks than Nationalised Banks.    
+  -  Payments Bank has a very low number of functioning offices of commercial banks in all regions.
 
-Let's try to do the anlysis
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://chart-studio.plotly.com/~srkc95/58" height="525" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://chart-studio.plotly.com/~srkc95/60" height="525" width="100%"></iframe>
+
+
 
 
