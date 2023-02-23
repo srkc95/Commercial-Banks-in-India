@@ -24,7 +24,7 @@ X-axis label: States
 Y-axis label: Number of functioning offices
 Color scale: Represents the number of functioning offices in each state
 
-<iframe src="https://srkc95.github.io/folium-map/" width="600" height="600"></iframe>
+<iframe src="https://srkc95.github.io/folium-map/" width="600" height="100%"></iframe>
 
 Population Type-wise Analysis:
 
