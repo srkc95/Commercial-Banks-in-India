@@ -24,6 +24,8 @@ X-axis label: States
 Y-axis label: Number of functioning offices
 Color scale: Represents the number of functioning offices in each state
 
+<iframe src="https://srkc95.github.io/folium-map/" width="600" height="600"></iframe>
+
 Population Type-wise Analysis:
 
 Urban population has the highest number of functioning offices of commercial banks, followed by rural, semi-urban, and metropolitan population.
