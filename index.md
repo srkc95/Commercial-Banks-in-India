@@ -5,8 +5,7 @@
    - In rural regions, Other Public Sector Banks have a higher number of functioning offices of commercial banks than Nationalised Banks.    
   -  Payments Bank has a very low number of functioning offices of commercial banks in all regions.
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://chart-studio.plotly.com/~srkc95/60" height="525" width="100%"></iframe>
-
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/plotly.com/~srkc95/60.embed" height="525" width="100%"></iframe>
 
 
 
